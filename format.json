@@ -1,0 +1,9 @@
+{
+    "title": "this is news headline",
+    "link": "https://www.link_to_website.com",
+    "description": "this is the description of the news",
+    "date": "09:02 PM, 21 Jan 2025",
+    "source": "website name",
+    "data_search": "{title}+{description}",
+    "page_content": "full content of actual news page (e.g. hindustan times, times of india, etc.)"
+}
